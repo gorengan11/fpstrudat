@@ -24,5 +24,5 @@ Linked list merupakan struktur data linier yang berbentuk rantai simpul dimana s
 Sedangkan stack atau biasa diartikan tumpukan, adalah struktur data linier yang mengikuti prinsip Last In First Out (LIFO). Dimana elemen yang terakhir disimpan dalam stack, menjadi elemen yang pertama diambil. Untuk meletakkan sebuah elemen pada bagian atas dari stack, maka dilakukan operasi push. Sedangkan untuk memindahkan sebuah elemen dari tempat atas tersebut dalam sebuah stack, maka dilakukan operasi pop. Dari gambar di samping, bisa dilihat bahwa meskipun elemen ke-3 adalah yang paling terakhir ditambahkan, namun elemen tersebut justru yang pertama dihapus. Operasi inilah yang kemudian disebut sebagai prinsip operasi LIFO (Last In First Out).
 
 # LINK
-VIDEO PRESENTASI : https://drive.google.com/file/d/1wzTonB6EEwmMSZYwGhGreH_4rwAE7aRL/view?usp=share_link
-VIDEO DEMO : https://drive.google.com/file/d/1UiBTpKXVFDTMbRY3C3dr0ephrDDngT-T/view?usp=share_link 
+1. VIDEO PRESENTASI : https://drive.google.com/file/d/1wzTonB6EEwmMSZYwGhGreH_4rwAE7aRL/view?usp=share_link
+2. VIDEO DEMO : https://drive.google.com/file/d/1UiBTpKXVFDTMbRY3C3dr0ephrDDngT-T/view?usp=share_link 
